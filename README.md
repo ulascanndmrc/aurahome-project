@@ -77,9 +77,7 @@ Proje, yazılım dünyasında kabul görmüş **MVC** tasarım kalıbına sıkı
 Projenin veritabanı, veri tekrarını önlemek (Normalizasyon) ve veri bütünlüğünü sağlamak amacıyla ilişkisel veritabanı standartlarına uygun olarak tasarlanmıştır. Temel tablolar ve işlevleri şunlardır:
 ### 📊 Veritabanı Şeması (ER Diagram)
 
-erDiagram
-    USERS ||--o{ ORDERS : "verir"
-    CATEGORIES ||--o{ PRODUCTS : "içerir"
+
     
     USERS {
         int id PK
