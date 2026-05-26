@@ -77,7 +77,6 @@ Proje, yazılım dünyasında kabul görmüş **MVC** tasarım kalıbına sıkı
 Projenin veritabanı, veri tekrarını önlemek (Normalizasyon) ve veri bütünlüğünü sağlamak amacıyla ilişkisel veritabanı standartlarına uygun olarak tasarlanmıştır. Temel tablolar ve işlevleri şunlardır:
 ### 📊 Veritabanı Şeması (ER Diagram)
 
-```mermaid
 erDiagram
     USERS ||--o{ ORDERS : "verir"
     CATEGORIES ||--o{ PRODUCTS : "içerir"
@@ -86,9 +85,9 @@ erDiagram
         int id PK
         string name
         string email
-        float balance
+        decimal balance
         string role
-        boolean is_active
+        string is_active
     }
     CATEGORIES {
         int id PK
@@ -99,13 +98,13 @@ erDiagram
         int id PK
         int category_id FK
         string name
-        float price
+        decimal price
         int stock
     }
     ORDERS {
         int id PK
         int user_id FK
-        float total_price
+        decimal total_price
         string status
     }
 
