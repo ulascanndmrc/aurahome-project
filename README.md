@@ -28,18 +28,24 @@ Anasayfa & Ürün Listesi:
 
 Cüzdan & Bakiye Düzenleme Paneli:
 
+<img width="1917" height="882" alt="Ekran görüntüsü 2026-05-26 172956" src="https://github.com/user-attachments/assets/735c5a92-9d52-4d29-8e05-d539a48ff586" />
 
 Ödeme/Satın Alma Sayfası:
+
+<img width="1886" height="884" alt="Ekran görüntüsü 2026-05-26 173240" src="https://github.com/user-attachments/assets/68a16c9c-62b1-4ea0-a730-d0a887ba1e0c" />
 
 
 Admin Ürün Envanter ve Tedarik Ekranı:
 
+<img width="1909" height="884" alt="Ekran görüntüsü 2026-05-26 173123" src="https://github.com/user-attachments/assets/a320c9f1-e7a1-4ee4-8552-b633aeee10f0" />
 
 Admin Kullanıcı Yönetimi ve Hesap Dondurma:
 
-
+<img width="1919" height="890" alt="Ekran görüntüsü 2026-05-26 173253" src="https://github.com/user-attachments/assets/3aa2258f-1df6-432e-851f-6bf12b92f5fe" />
 
 Open-Meteo API Hava Durumu ve Leaflet Haritası:
+
+<img width="1900" height="880" alt="Ekran görüntüsü 2026-05-26 181110" src="https://github.com/user-attachments/assets/341a417c-8f9d-48b1-b5f9-8aa5ad4cd0c7" />
 
 
 ## 🛠️ Kullanılan Teknolojiler ve Sistem Mimarisi
