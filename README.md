@@ -22,7 +22,24 @@ Yönetici Kontrol Ağı: Kullanıcı dondurma, aktif etme, sipariş durumların�
 📸 Proje Ekran Görüntüleri
 
 
+Anasayfa & Ürün Listesi:
+
 <img width="1899" height="872" alt="image" src="https://github.com/user-attachments/assets/53497282-11a9-4fc6-acbd-02efbec4f539" />
+
+Cüzdan & Bakiye Düzenleme Paneli:
+
+
+Ödeme/Satın Alma Sayfası:
+
+
+Admin Ürün Envanter ve Tedarik Ekranı:
+
+
+Admin Kullanıcı Yönetimi ve Hesap Dondurma:
+
+
+
+Open-Meteo API Hava Durumu ve Leaflet Haritası:
 
 
 ## 🛠️ Kullanılan Teknolojiler ve Sistem Mimarisi
